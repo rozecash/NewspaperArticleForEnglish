@@ -119,7 +119,7 @@ const App = () => {
                 <div className={`flex items-center gap-4 text-sm font-bold uppercase tracking-wider opacity-60 ${isDarkMode ? 'text-zinc-400' : 'text-zinc-500'}`}>
                   <span>{article.author || 'Staff Writer'}</span>
                   <span className="w-1 h-1 rounded-full bg-current"></span>
-                  <span>June 21, 2006</span>
+                  <span>December 15, 2025</span>
                 </div>
                </div>
 
@@ -297,7 +297,7 @@ const App = () => {
               <h4 className="font-serif font-bold uppercase mb-2">Works Cited</h4>
               <ul className="space-y-2 opacity-70 text-xs">
                 <li>Riordan, Rick. <em>The Lightning Thief</em>. New York: Miramax Books, 2005.</li>
-                <li>Smythe, Eileen. "Boy and Mother Still Missing." <em>New York Daily News</em>.</li>
+                <li>Smythe, Eileen. "Boy and Mother Still Missing." <em>UI inspired from the New York Daily News.</em>.</li>
               </ul>
             </div>
           </aside>
@@ -313,7 +313,7 @@ const App = () => {
             <a href="#" className="hover:text-white transition-colors">About Chiron</a>
             <a href="#" className="hover:text-white transition-colors">Contact Hermes</a>
           </div>
-          <p className="text-xs opacity-50">&copy; 2006 The Olympian Gazette. Western Civilization is currently located in America.</p>
+          <p className="text-xs opacity-50">&copy; 2025 The Olympian News. North America.</p>
         </div>
       </footer>
 
