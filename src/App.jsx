@@ -23,8 +23,8 @@ const App = () => {
       category: 'Special Report',
       title: 'GREEK GODS ARE REAL!',
       image: 'https://images.unsplash.com/photo-1506452305024-9d3f02d1c9b5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80',
-      summary: "NEW YORK — BY EILEEN SMYTHE. The Mist has lifted! Recent events across the United States have confirmed the impossible: Mount Olympus is currently anchored above the Empire State Building.",
-      fullText: "NEW YORK — BY EILEEN SMYTHE. The Mist has lifted! Recent events across the United States have confirmed the impossible: Mount Olympus is currently anchored above the Empire State Building. From the explosion at the St. Louis Arch involving a \"Chimera\" to the supernatural duel on Santa Monica beach, evidence suggests the gods are active, powerful, and very much alive. Eyewitnesses report strange weather patterns, unexplained miracles, and sighting of anomalous creatures. Authorities are scrambling for answers, but the truth appears to be ancient: We are not alone.\n\nFor weeks, weather experts have struggled to explain the localized hurricane activity over Long Island, while ground-shaking tremors baffled experts in Los Angeles. But the most damning evidence comes from ordinary citizens: commuters in New Jersey who witnessed \"bat-winged hags\" attacking a bus, and tourists in St. Louis who saw a boy plummet into the Mississippi River only to emerge completely dry. The veil of secrecy—known in ancient texts as \"The Mist\"—is finally tearing apart. Whether we choose to believe it or not, the Olympians have returned to the heart of the West, and their disputes are no longer merely myths.",
+      summary: "NEW YORK  BY EILEEN SMYTHE. The Mist has lifted! Recent events across the United States have confirmed the impossible: Mount Olympus is currently anchored above the Empire State Building.",
+      fullText: "NEW YORK  BY EILEEN SMYTHE. The Mist has lifted! Recent events across the United States have confirmed the impossible: Mount Olympus is currently anchored above the Empire State Building. From the explosion at the St. Louis Arch involving a \"Chimera\" to the supernatural duel on Santa Monica beach, evidence suggests the gods are active, powerful, and very much alive. Eyewitnesses report strange weather patterns, unexplained miracles, and sighting of anomalous creatures. Authorities are scrambling for answers, but the truth appears to be ancient: We are not alone.\n\nFor weeks, weather experts have struggled to explain the localized hurricane activity over Long Island, while ground-shaking tremors baffled experts in Los Angeles. But the most damning evidence comes from ordinary citizens: commuters in New Jersey who witnessed \"bat-winged hags\" attacking a bus, and tourists in St. Louis who saw a boy plummet into the Mississippi River only to emerge completely dry. The veil of secrecyknown in ancient texts as \"The Mist\"is finally tearing apart. Whether we choose to believe it or not, the Olympians have returned to the heart of the West, and their disputes are no longer merely myths.",
       author: 'Percy Jackson',
       credit: 'Photographed by Annabeth Chase'
     },
@@ -137,7 +137,7 @@ const App = () => {
                
                {/* Article Footer */}
                <div className="mt-16 pt-8 border-t border-dashed border-zinc-500/30 text-center opacity-50 italic text-sm font-serif">
-                 — End of Scroll —
+                  End of Scroll 
                </div>
             </div>
           </div>
